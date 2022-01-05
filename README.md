@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mnesias.gr/" target="_blank" align="center">
-    <img src="https://www.diadrasis.gr/wp-content/uploads/2021/01/logo_mnesias_site-1.jpg" width="280">
+    <img src="https://www.diadrasis.gr/wp-content/uploads/2021/01/logo_mnesias_site-1.jpg">
   </a>
   <br/>
   
