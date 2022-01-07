@@ -1,0 +1,280 @@
+bodyMaterial,wayOfPlaying,numOfChords,chords,length,tension,density,folder,audioFile
+1,0,26,0,0,0,0,,
+1,0,26,1,"0,4325","12,07","6,3000",Trigonon/Default values,Trigono-default-string1
+1,0,26,2,"0,4220","13,32","5,8306",Trigonon/Default values,Trigono-default-string2
+1,0,26,3,"0,4120","14,25","5,8306",Trigonon/Default values,Trigono-default-string3
+1,0,26,4,"0,4000","15,05","5,8306",Trigonon/Default values,Trigono-default-string4
+1,0,26,5,"0,3850","15,67","5,8306",Trigonon/Default values,Trigono-default-string5
+1,0,26,6,"0,3750","18,75","5,8306",Trigonon/Default values,Trigono-default-string6
+1,0,26,7,"0,3600","19,36","5,8306",Trigonon/Default values,Trigono-default-string7
+1,0,26,8,"0,3475","20,26","5,8306",Trigonon/Default values,Trigono-default-string8
+1,0,26,9,"0,3375","21,49","5,8306",Trigonon/Default values,Trigono-default-string9
+1,0,26,10,"0,3250","22,35","5,8306",Trigonon/Default values,Trigono-default-string10
+1,0,26,11,"0,3125","17,48","4,3972",Trigonon/Default values,Trigono-default-string11
+1,0,26,12,"0,3000","20,31","4,3972",Trigonon/Default values,Trigono-default-string12
+1,0,26,13,"0,2900","21,27","4,3972",Trigonon/Default values,Trigono-default-string13
+1,0,26,14,"0,2775","21,89","4,3972",Trigonon/Default values,Trigono-default-string14
+1,0,26,15,"0,2675","22,82","4,3972",Trigonon/Default values,Trigono-default-string15
+1,0,26,16,"0,2550","26,11","4,3972",Trigonon/Default values,Trigono-default-string16
+1,0,26,17,"0,2425","23,43","3,8804",Trigonon/Default values,Trigono-default-string17
+1,0,26,18,"0,2300","23,66","3,8804",Trigonon/Default values,Trigono-default-string18
+1,0,26,19,"0,2175","23,74","3,8804",Trigonon/Default values,Trigono-default-string19
+1,0,26,20,"0,2050","23,58","3,8804",Trigonon/Default values,Trigono-default-string20
+1,0,26,21,"0,1950","19,62","3,1657",Trigonon/Default values,Trigono-default-string21
+1,0,26,22,"0,1850","22,24","3,1657",Trigonon/Default values,Trigono-default-string22
+1,0,26,23,"0,1725","21,71","3,1657",Trigonon/Default values,Trigono-default-string23
+1,0,26,24,"0,1600","20,93","3,1657",Trigonon/Default values,Trigono-default-string24
+1,0,26,25,"0,1500","20,71","3,1657",Trigonon/Default values,Trigono-default-string25
+1,0,26,26,"0,1400","22,68","3,1657",Trigonon/Default values,Trigono-default-string26
+1,0,26,1,0,0,0,,
+1,0,26,2,0,0,0,,
+1,0,26,3,0,0,0,,
+1,0,26,4,0,0,0,,
+1,0,26,5,0,0,0,,
+1,0,26,6,0,0,0,,
+1,0,26,7,0,0,0,,
+1,0,26,8,0,0,0,,
+1,0,26,9,0,0,0,,
+1,0,26,10,0,0,0,,
+1,0,26,11,0,0,0,,
+1,0,26,12,0,0,0,,
+1,0,26,13,0,0,0,,
+1,0,26,14,0,0,0,,
+1,0,26,15,0,0,0,,
+1,0,26,16,0,0,0,,
+1,0,26,17,0,0,0,,
+1,0,26,18,0,0,0,,
+1,0,26,19,0,0,0,,
+1,0,26,20,0,0,0,,
+1,0,26,21,0,0,0,,
+1,0,26,22,0,0,0,,
+1,0,26,23,0,0,0,,
+1,0,26,24,0,0,0,,
+1,0,26,25,0,0,0,,
+1,0,26,26,0,0,0,,
+1,0,26,1,"0,3028","12,07","6,3000",Trigonon/Length - set 1,Trigono-Length_set1-string1
+1,0,26,2,"0,2954","13,32","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string2
+1,0,26,3,"0,2884","14,25","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string3
+1,0,26,4,"0,2800","15,05","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string4
+1,0,26,5,"0,2695","15,67","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string5
+1,0,26,6,"0,2625","18,75","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string6
+1,0,26,7,"0,2520","19,36","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string7
+1,0,26,8,"0,2433","20,26","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string8
+1,0,26,9,"0,2363","21,49","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string9
+1,0,26,10,"0,2275","22,35","5,8306",Trigonon/Length - set 1,Trigono-Length_set1-string10
+1,0,26,11,"0,2188","17,48","4,3972",Trigonon/Length - set 1,Trigono-Length_set1-string11
+1,0,26,12,"0,2100","20,31","4,3972",Trigonon/Length - set 1,Trigono-Length_set1-string12
+1,0,26,13,"0,2030","21,27","4,3972",Trigonon/Length - set 1,Trigono-Length_set1-string13
+1,0,26,14,"0,1943","21,89","4,3972",Trigonon/Length - set 1,Trigono-Length_set1-string14
+1,0,26,15,"0,1873","22,82","4,3972",Trigonon/Length - set 1,Trigono-Length_set1-string15
+1,0,26,16,"0,1785","26,11","4,3972",Trigonon/Length - set 1,Trigono-Length_set1-string16
+1,0,26,17,"0,1698","23,43","3,8804",Trigonon/Length - set 1,Trigono-Length_set1-string17
+1,0,26,18,"0,1610","23,66","3,8804",Trigonon/Length - set 1,Trigono-Length_set1-string18
+1,0,26,19,"0,1523","23,74","3,8804",Trigonon/Length - set 1,Trigono-Length_set1-string19
+1,0,26,20,"0,1435","23,58","3,8804",Trigonon/Length - set 1,Trigono-Length_set1-string20
+1,0,26,21,"0,1365","19,62","3,1657",Trigonon/Length - set 1,Trigono-Length_set1-string21
+1,0,26,22,"0,1295","22,24","3,1657",Trigonon/Length - set 1,Trigono-Length_set1-string22
+1,0,26,23,"0,1208","21,71","3,1657",Trigonon/Length - set 1,Trigono-Length_set1-string23
+1,0,26,24,"0,1120","20,93","3,1657",Trigonon/Length - set 1,Trigono-Length_set1-string24
+1,0,26,25,"0,1050","20,71","3,1657",Trigonon/Length - set 1,Trigono-Length_set1-string25
+1,0,26,26,"0,0980","22,68","3,1657",Trigonon/Length - set 1,Trigono-Length_set1-string26
+1,0,26,1,"0,5623","12,07","6,3000",Trigonon/Length - set 2,Trigono-Length_set2-string1
+1,0,26,2,"0,5486","13,32","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string2
+1,0,26,3,"0,5356","14,25","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string3
+1,0,26,4,"0,5200","15,05","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string4
+1,0,26,5,"0,5005","15,67","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string5
+1,0,26,6,"0,4875","18,75","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string6
+1,0,26,7,"0,4680","19,36","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string7
+1,0,26,8,"0,4518","20,26","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string8
+1,0,26,9,"0,4388","21,49","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string9
+1,0,26,10,"0,4225","22,35","5,8306",Trigonon/Length - set 2,Trigono-Length_set2-string10
+1,0,26,11,"0,4063","17,48","4,3972",Trigonon/Length - set 2,Trigono-Length_set2-string11
+1,0,26,12,"0,3900","20,31","4,3972",Trigonon/Length - set 2,Trigono-Length_set2-string12
+1,0,26,13,"0,3770","21,27","4,3972",Trigonon/Length - set 2,Trigono-Length_set2-string13
+1,0,26,14,"0,3608","21,89","4,3972",Trigonon/Length - set 2,Trigono-Length_set2-string14
+1,0,26,15,"0,3478","22,82","4,3972",Trigonon/Length - set 2,Trigono-Length_set2-string15
+1,0,26,16,"0,3315","26,11","4,3972",Trigonon/Length - set 2,Trigono-Length_set2-string16
+1,0,26,17,"0,3153","23,43","3,8804",Trigonon/Length - set 2,Trigono-Length_set2-string17
+1,0,26,18,"0,2990","23,66","3,8804",Trigonon/Length - set 2,Trigono-Length_set2-string18
+1,0,26,19,"0,2828","23,74","3,8804",Trigonon/Length - set 2,Trigono-Length_set2-string19
+1,0,26,20,"0,2665","23,58","3,8804",Trigonon/Length - set 2,Trigono-Length_set2-string20
+1,0,26,21,"0,2535","19,62","3,1657",Trigonon/Length - set 2,Trigono-Length_set2-string21
+1,0,26,22,"0,2405","22,24","3,1657",Trigonon/Length - set 2,Trigono-Length_set2-string22
+1,0,26,23,"0,2243","21,71","3,1657",Trigonon/Length - set 2,Trigono-Length_set2-string23
+1,0,26,24,"0,2080","20,93","3,1657",Trigonon/Length - set 2,Trigono-Length_set2-string24
+1,0,26,25,"0,1950","20,71","3,1657",Trigonon/Length - set 2,Trigono-Length_set2-string25
+1,0,26,26,"0,1820","22,68","3,1657",Trigonon/Length - set 2,Trigono-Length_set2-string26
+1,0,26,1,"0,4325","8,45","6,3000",Trigonon/Tension - set 1,Trigono-Tension_set1-string1
+1,0,26,2,"0,4220","9,33","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string2
+1,0,26,3,"0,4120","9,97","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string3
+1,0,26,4,"0,4000","10,53","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string4
+1,0,26,5,"0,3850","10,97","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string5
+1,0,26,6,"0,3750","13,12","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string6
+1,0,26,7,"0,3600","13,55","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string7
+1,0,26,8,"0,3475","14,18","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string8
+1,0,26,9,"0,3375","15,04","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string9
+1,0,26,10,"0,3250","15,64","5,8306",Trigonon/Tension - set 1,Trigono-Tension_set1-string10
+1,0,26,11,"0,3125","12,24","4,3972",Trigonon/Tension - set 1,Trigono-Tension_set1-string11
+1,0,26,12,"0,3000","14,22","4,3972",Trigonon/Tension - set 1,Trigono-Tension_set1-string12
+1,0,26,13,"0,2900","14,89","4,3972",Trigonon/Tension - set 1,Trigono-Tension_set1-string13
+1,0,26,14,"0,2775","15,32","4,3972",Trigonon/Tension - set 1,Trigono-Tension_set1-string14
+1,0,26,15,"0,2675","15,97","4,3972",Trigonon/Tension - set 1,Trigono-Tension_set1-string15
+1,0,26,16,"0,2550","18,28","4,3972",Trigonon/Tension - set 1,Trigono-Tension_set1-string16
+1,0,26,17,"0,2425","16,40","3,8804",Trigonon/Tension - set 1,Trigono-Tension_set1-string17
+1,0,26,18,"0,2300","16,56","3,8804",Trigonon/Tension - set 1,Trigono-Tension_set1-string18
+1,0,26,19,"0,2175","16,62","3,8804",Trigonon/Tension - set 1,Trigono-Tension_set1-string19
+1,0,26,20,"0,2050","16,51","3,8804",Trigonon/Tension - set 1,Trigono-Tension_set1-string20
+1,0,26,21,"0,1950","13,73","3,1657",Trigonon/Tension - set 1,Trigono-Tension_set1-string21
+1,0,26,22,"0,1850","15,57","3,1657",Trigonon/Tension - set 1,Trigono-Tension_set1-string22
+1,0,26,23,"0,1725","15,19","3,1657",Trigonon/Tension - set 1,Trigono-Tension_set1-string23
+1,0,26,24,"0,1600","14,65","3,1657",Trigonon/Tension - set 1,Trigono-Tension_set1-string24
+1,0,26,25,"0,1500","14,49","3,1657",Trigonon/Tension - set 1,Trigono-Tension_set1-string25
+1,0,26,26,"0,1400","15,88","3,1657",Trigonon/Tension - set 1,Trigono-Tension_set1-string26
+1,0,26,1,"0,4325","15,69","6,3000",Trigonon/Tension - set 2,Trigono-Tension_set2-string1
+1,0,26,2,"0,4220","17,32","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string2
+1,0,26,3,"0,4120","18,52","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string3
+1,0,26,4,"0,4000","19,56","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string4
+1,0,26,5,"0,3850","20,37","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string5
+1,0,26,6,"0,3750","24,37","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string6
+1,0,26,7,"0,3600","25,17","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string7
+1,0,26,8,"0,3475","26,34","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string8
+1,0,26,9,"0,3375","27,93","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string9
+1,0,26,10,"0,3250","29,05","5,8306",Trigonon/Tension - set 2,Trigono-Tension_set2-string10
+1,0,26,11,"0,3125","22,72","4,3972",Trigonon/Tension - set 2,Trigono-Tension_set2-string11
+1,0,26,12,"0,3000","26,40","4,3972",Trigonon/Tension - set 2,Trigono-Tension_set2-string12
+1,0,26,13,"0,2900","27,65","4,3972",Trigonon/Tension - set 2,Trigono-Tension_set2-string13
+1,0,26,14,"0,2775","28,45","4,3972",Trigonon/Tension - set 2,Trigono-Tension_set2-string14
+1,0,26,15,"0,2675","29,66","4,3972",Trigonon/Tension - set 2,Trigono-Tension_set2-string15
+1,0,26,16,"0,2550","33,94","4,3972",Trigonon/Tension - set 2,Trigono-Tension_set2-string16
+1,0,26,17,"0,2425","30,46","3,8804",Trigonon/Tension - set 2,Trigono-Tension_set2-string17
+1,0,26,18,"0,2300","30,76","3,8804",Trigonon/Tension - set 2,Trigono-Tension_set2-string18
+1,0,26,19,"0,2175","30,86","3,8804",Trigonon/Tension - set 2,Trigono-Tension_set2-string19
+1,0,26,20,"0,2050","30,66","3,8804",Trigonon/Tension - set 2,Trigono-Tension_set2-string20
+1,0,26,21,"0,1950","25,50","3,1657",Trigonon/Tension - set 2,Trigono-Tension_set2-string21
+1,0,26,22,"0,1850","28,91","3,1657",Trigonon/Tension - set 2,Trigono-Tension_set2-string22
+1,0,26,23,"0,1725","28,22","3,1657",Trigonon/Tension - set 2,Trigono-Tension_set2-string23
+1,0,26,24,"0,1600","27,21","3,1657",Trigonon/Tension - set 2,Trigono-Tension_set2-string24
+1,0,26,25,"0,1500","26,92","3,1657",Trigonon/Tension - set 2,Trigono-Tension_set2-string25
+1,0,26,26,"0,1400","29,49","3,1657",Trigonon/Tension - set 2,Trigono-Tension_set2-string26
+1,0,26,1,"0,4325","12,07","4,4100",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string1
+1,0,26,2,"0,4220","13,32","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string2
+1,0,26,3,"0,4120","14,25","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string3
+1,0,26,4,"0,4000","15,05","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string4
+1,0,26,5,"0,3850","15,67","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string5
+1,0,26,6,"0,3750","18,75","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string6
+1,0,26,7,"0,3600","19,36","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string7
+1,0,26,8,"0,3475","20,26","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string8
+1,0,26,9,"0,3375","21,49","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string9
+1,0,26,10,"0,3250","22,35","4,0814",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string10
+1,0,26,11,"0,3125","17,48","3,0780",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string11
+1,0,26,12,"0,3000","20,31","3,0780",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string12
+1,0,26,13,"0,2900","21,27","3,0780",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string13
+1,0,26,14,"0,2775","21,89","3,0780",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string14
+1,0,26,15,"0,2675","22,82","3,0780",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string15
+1,0,26,16,"0,2550","26,11","3,0780",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string16
+1,0,26,17,"0,2425","23,43","2,7162",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string17
+1,0,26,18,"0,2300","23,66","2,7162",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string18
+1,0,26,19,"0,2175","23,74","2,7162",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string19
+1,0,26,20,"0,2050","23,58","2,7162",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string20
+1,0,26,21,"0,1950","19,62","2,2160",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string21
+1,0,26,22,"0,1850","22,24","2,2160",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string22
+1,0,26,23,"0,1725","21,71","2,2160",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string23
+1,0,26,24,"0,1600","20,93","2,2160",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string24
+1,0,26,25,"0,1500","20,71","2,2160",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string25
+1,0,26,26,"0,1400","22,68","2,2160",Trigonon/Linear density - set 1,Trigono-Linear_density_set1-string26
+1,0,26,1,"0,4325","12,07","8,1900",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string1
+1,0,26,2,"0,4220","13,32","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string2
+1,0,26,3,"0,4120","14,25","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string3
+1,0,26,4,"0,4000","15,05","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string4
+1,0,26,5,"0,3850","15,67","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string5
+1,0,26,6,"0,3750","18,75","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string6
+1,0,26,7,"0,3600","19,36","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string7
+1,0,26,8,"0,3475","20,26","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string8
+1,0,26,9,"0,3375","21,49","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string9
+1,0,26,10,"0,3250","22,35","7,5798",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string10
+1,0,26,11,"0,3125","17,48","5,7164",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string11
+1,0,26,12,"0,3000","20,31","5,7164",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string12
+1,0,26,13,"0,2900","21,27","5,7164",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string13
+1,0,26,14,"0,2775","21,89","5,7164",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string14
+1,0,26,15,"0,2675","22,82","5,7164",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string15
+1,0,26,16,"0,2550","26,11","5,7164",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string16
+1,0,26,17,"0,2425","23,43","5,0445",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string17
+1,0,26,18,"0,2300","23,66","5,0445",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string18
+1,0,26,19,"0,2175","23,74","5,0445",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string19
+1,0,26,20,"0,2050","23,58","5,0445",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string20
+1,0,26,21,"0,1950","19,62","4,1154",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string21
+1,0,26,22,"0,1850","22,24","4,1154",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string22
+1,0,26,23,"0,1725","21,71","4,1154",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string23
+1,0,26,24,"0,1600","20,93","4,1154",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string24
+1,0,26,25,"0,1500","20,71","4,1154",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string25
+1,0,26,26,"0,1400","22,68","4,1154",Trigonon/Linear density - set 2,Trigono-Linear_density_set2-string26
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,4300","71,94","36,4414",Helys/Default values,Lyra-default-string1
+0,1,9,2,"0,4300","56,75","22,7128",Helys/Default values,Lyra-default-string2
+0,1,9,3,"0,4300","45,84","17,0598",Helys/Default values,Lyra-default-string3
+0,1,9,4,"0,4300","51,00","14,5362",Helys/Default values,Lyra-default-string4
+0,1,9,5,"0,4300","44,81","10,0946",Helys/Default values,Lyra-default-string5
+0,1,9,6,"0,4300","54,46","9,6948",Helys/Default values,Lyra-default-string6
+0,1,9,7,"0,4300","58,03","9,3032",Helys/Default values,Lyra-default-string7
+0,1,9,8,"0,4300","64,55","8,1766",Helys/Default values,Lyra-default-string8
+0,1,9,9,"0,4300","64,53","6,4605",Helys/Default values,Lyra-default-string9
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,3010","71,94","36,4414",Helys/Length - set 1,Lyra-Length_set1-string1
+0,1,9,2,"0,3010","56,75","22,7128",Helys/Length - set 1,Lyra-Length_set1-string2
+0,1,9,3,"0,3010","45,84","17,0598",Helys/Length - set 1,Lyra-Length_set1-string3
+0,1,9,4,"0,3010","51,00","14,5362",Helys/Length - set 1,Lyra-Length_set1-string4
+0,1,9,5,"0,3010","44,81","10,0946",Helys/Length - set 1,Lyra-Length_set1-string5
+0,1,9,6,"0,3010","54,46","9,6948",Helys/Length - set 1,Lyra-Length_set1-string6
+0,1,9,7,"0,3010","58,03","9,3032",Helys/Length - set 1,Lyra-Length_set1-string7
+0,1,9,8,"0,3010","64,55","8,1766",Helys/Length - set 1,Lyra-Length_set1-string8
+0,1,9,9,"0,3010","64,53","6,4605",Helys/Length - set 1,Lyra-Length_set1-string9
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,5590","71,94","36,4414",Helys/Length - set 2,Lyra-Length_set2-string1
+0,1,9,2,"0,5590","56,75","22,7128",Helys/Length - set 2,Lyra-Length_set2-string2
+0,1,9,3,"0,5590","45,84","17,0598",Helys/Length - set 2,Lyra-Length_set2-string3
+0,1,9,4,"0,5590","51,00","14,5362",Helys/Length - set 2,Lyra-Length_set2-string4
+0,1,9,5,"0,5590","44,81","10,0946",Helys/Length - set 2,Lyra-Length_set2-string5
+0,1,9,6,"0,5590","54,46","9,6948",Helys/Length - set 2,Lyra-Length_set2-string6
+0,1,9,7,"0,5590","58,03","9,3032",Helys/Length - set 2,Lyra-Length_set2-string7
+0,1,9,8,"0,5590","64,55","8,1766",Helys/Length - set 2,Lyra-Length_set2-string8
+0,1,9,9,"0,5590","64,53","6,4605",Helys/Length - set 2,Lyra-Length_set2-string9
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,4300","50,36","36,4414",Helys/Tension - set 1,Lyra-Tension_set1-string1
+0,1,9,2,"0,4300","39,72","22,7128",Helys/Tension - set 1,Lyra-Tension_set1-string2
+0,1,9,3,"0,4300","32,09","17,0598",Helys/Tension - set 1,Lyra-Tension_set1-string3
+0,1,9,4,"0,4300","35,70","14,5362",Helys/Tension - set 1,Lyra-Tension_set1-string4
+0,1,9,5,"0,4300","31,37","10,0946",Helys/Tension - set 1,Lyra-Tension_set1-string5
+0,1,9,6,"0,4300","38,12","9,6948",Helys/Tension - set 1,Lyra-Tension_set1-string6
+0,1,9,7,"0,4300","40,62","9,3032",Helys/Tension - set 1,Lyra-Tension_set1-string7
+0,1,9,8,"0,4300","45,18","8,1766",Helys/Tension - set 1,Lyra-Tension_set1-string8
+0,1,9,9,"0,4300","45,17","6,4605",Helys/Tension - set 1,Lyra-Tension_set1-string9
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,4300","93,53","36,4414",Helys/Tension - set 2,Lyra-Tension_set2-string1
+0,1,9,2,"0,4300","73,77","22,7128",Helys/Tension - set 2,Lyra-Tension_set2-string2
+0,1,9,3,"0,4300","59,59","17,0598",Helys/Tension - set 2,Lyra-Tension_set2-string3
+0,1,9,4,"0,4300","66,30","14,5362",Helys/Tension - set 2,Lyra-Tension_set2-string4
+0,1,9,5,"0,4300","58,26","10,0946",Helys/Tension - set 2,Lyra-Tension_set2-string5
+0,1,9,6,"0,4300","70,80","9,6948",Helys/Tension - set 2,Lyra-Tension_set2-string6
+0,1,9,7,"0,4300","75,43","9,3032",Helys/Tension - set 2,Lyra-Tension_set2-string7
+0,1,9,8,"0,4300","83,91","8,1766",Helys/Tension - set 2,Lyra-Tension_set2-string8
+0,1,9,9,"0,4300","83,89","6,4605",Helys/Tension - set 2,Lyra-Tension_set2-string9
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,4300","71,94","25,5090",Helys/Linear density - set 1,Lyra-Linear_density_set1-string1
+0,1,9,2,"0,4300","56,75","15,8989",Helys/Linear density - set 1,Lyra-Linear_density_set1-string2
+0,1,9,3,"0,4300","45,84","11,9419",Helys/Linear density - set 1,Lyra-Linear_density_set1-string3
+0,1,9,4,"0,4300","51,00","10,1753",Helys/Linear density - set 1,Lyra-Linear_density_set1-string4
+0,1,9,5,"0,4300","44,81","7,0662",Helys/Linear density - set 1,Lyra-Linear_density_set1-string5
+0,1,9,6,"0,4300","54,46","6,7864",Helys/Linear density - set 1,Lyra-Linear_density_set1-string6
+0,1,9,7,"0,4300","58,03","6,5122",Helys/Linear density - set 1,Lyra-Linear_density_set1-string7
+0,1,9,8,"0,4300","64,55","5,7236",Helys/Linear density - set 1,Lyra-Linear_density_set1-string8
+0,1,9,9,"0,4300","64,53","4,5224",Helys/Linear density - set 1,Lyra-Linear_density_set1-string9
+0,1,9,0,0,0,0,,
+0,1,9,1,"0,4300","71,94","47,3738",Helys/Linear density - set 2,Lyra-Linear_density_set2-string1
+0,1,9,2,"0,4300","56,75","29,5266",Helys/Linear density - set 2,Lyra-Linear_density_set2-string2
+0,1,9,3,"0,4300","45,84","22,1778",Helys/Linear density - set 2,Lyra-Linear_density_set2-string3
+0,1,9,4,"0,4300","51,00","18,8970",Helys/Linear density - set 2,Lyra-Linear_density_set2-string4
+0,1,9,5,"0,4300","44,81","13,1229",Helys/Linear density - set 2,Lyra-Linear_density_set2-string5
+0,1,9,6,"0,4300","54,46","12,6033",Helys/Linear density - set 2,Lyra-Linear_density_set2-string6
+0,1,9,7,"0,4300","58,03","12,0941",Helys/Linear density - set 2,Lyra-Linear_density_set2-string7
+0,1,9,8,"0,4300","64,55","10,6296",Helys/Linear density - set 2,Lyra-Linear_density_set2-string8
+0,1,9,9,"0,4300","64,53","8,3987",Helys/Linear density - set 2,Lyra-Linear_density_set2-string9

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Diadrasis/_Scenes/PCScenes/SplashVisitorPC.unity
+    guid: b6f7d91f63024f045ac804f5e42d39b1
+  - enabled: 1
+    path: Assets/Diadrasis/_Scenes/PCScenes/newUIScenePC.unity
+    guid: f504d441994969b47a01c8f436716767
+  - enabled: 1
+    path: Assets/Diadrasis/_Scenes/PCScenes/UICreditsPC.unity
+    guid: 0698d6db6afa86044ab5ac2ed4c78aa7
+  m_configObjects: {}

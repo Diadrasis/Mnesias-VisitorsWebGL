@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 161151844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c0bb474fbe89e54b42bc15905d5c4d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Resources/Piraeus/\u0397 \u03BB\u03C5\u03C1\u03B1 \u03C4\u03B7\u03C2 \u03B4\u03B1\u03C6\u03BD\u03B7\u03C2.m4v"
+- "Assets/Resources/Trigonon/\u03A4\u03C1\u03B9\u03B3\u03C9\u03BD\u03BF.m4v"
+- "Assets/Resources/Megara/\u0391\u03C5\u03BB\u03BF\u03C3 2.m4v"
+- "Assets/Resources/megarwnH64/\u039C\u03B5\u03B3\u03B1\u03C1\u03B1 1964.m4v"
+- "Assets/Resources/Megara/\u0391\u03C5\u03BB\u03BF\u03C2 1.m4v"
+- "Assets/Resources/Helys/\u039B\u03C5\u03C1\u03B1.m4v"
+Dependencies: []

@@ -1,0 +1,645 @@
+ManifestFileVersion: 0
+CRC: 913742046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0ed720246386362e2c9e985a9ddb232
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL4.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string8.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH8.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L2.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR1.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa26.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL1.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR2.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL1.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL5.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string8.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL5.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa21.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa24.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL8.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR2.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa17.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL1.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH7.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa12.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR2.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa20.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH2.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string7.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL1.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string6.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH4.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL4.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR8.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR9.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa21.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR8.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH1.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa15.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string3.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR6.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH2.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa18.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH4.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string6.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string7.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH3.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH4.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR8.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL7.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa18.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL5.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH9.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR4.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL7.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa11.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH5.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL6.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string6.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL1.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string7.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string7.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH4.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL8.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR1.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string1.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string5.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa22.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH2.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH5.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR1.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string9.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa22.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH4.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR3.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH7.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string7.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR9.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L7.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL1.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL2.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR9.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string7.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string9.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR1.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH5.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR2.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string7.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH5.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa13.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa13.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL7.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR8.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string4.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR9.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH3.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string9.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string4.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL1.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH5.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH7.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string9.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL4.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH2.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa18.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string1.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR2.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa15.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa11.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR1.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH4.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL9.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string2.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR7.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa23.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR8.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string4.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR2.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string2.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL3.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL9.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR5.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH3.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH5.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH7.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL2.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR6.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string1.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL7.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH7.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL9.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL5.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH3.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR3.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL9.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa22.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH1.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa24.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH4.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR7.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR4.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH1.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa10.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL1.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR7.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR3.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL4.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR6.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string7.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL9.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa19.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH4.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa23.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL6.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR1.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string9.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string9.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH2.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL2.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL1.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR3.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR3.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa10.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR7.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH8.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string3.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L8.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa20.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa15.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL2.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH6.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR4.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string6.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string4.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa20.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa25.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL2.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL6.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR5.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa17.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa12.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR9.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa16.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR5.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH1.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH6.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa24.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string5.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH7.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH6.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH4.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH8.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH5.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string8.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa22.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR5.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa14.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR7.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH7.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string5.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH5.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string8.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa20.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string8.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR3.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL3.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR7.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa24.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L4.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR4.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH4.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH8.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL2.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL2.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa19.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string5.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa13.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH3.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL7.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string8.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string5.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string8.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL2.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL7.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL7.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H4.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL3.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL8.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR1.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL3.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH6.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa15.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string8.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa10.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH2.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string4.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR6.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH4.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa10.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string2.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR2.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR8.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string4.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR4.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL7.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string6.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH6.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR5.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR7.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL6.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L6.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH2.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH8.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa16.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL3.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string4.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string6.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa17.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH2.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR6.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR4.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa19.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L5.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa25.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR2.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL6.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa23.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string6.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR3.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH3.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL6.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL8.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string3.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH8.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa26.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa14.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string6.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string1.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL2.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string9.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR4.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string5.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL8.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa15.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL4.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR7.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string3.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR2.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string3.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL4.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string7.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H1.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL5.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string2.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR8.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR3.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR7.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string1.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH7.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR4.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH1.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string2.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH5.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL4.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR2.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR6.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL4.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string4.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL7.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL8.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR3.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH4.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH4.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR8.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL1.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string5.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa16.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa25.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH9.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL3.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH4.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL6.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa23.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL6.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa16.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL4.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH2.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa19.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL3.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR1.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR1.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH7.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL3.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string5.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL7.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa23.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH7.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR9.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR1.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH6.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa11.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH2.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa21.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H3.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string9.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa18.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR8.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string3.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL2.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR2.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL3.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL3.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string2.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL3.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL1.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL8.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string2.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Minus/aulos_megaron1965LMinusL5.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa20.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa12.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H6.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH3.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH8.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa18.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa16.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL5.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string6.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa10.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string1.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa14.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL8.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH6.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR7.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL4.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR5.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa26.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa17.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL2.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H5.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH5.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL4.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string9.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL4.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Plus/aulos_megaron1965HPlusL6.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa26.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string2.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa17.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR3.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL7.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa24.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa13.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa10.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR7.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Plus/aulos_megaron1965LPlusTH3.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa13.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR7.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string4.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa12.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR4.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string6.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string9.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL6.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string8.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL8.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa26.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa19.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL4.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR7.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string1.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa14.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH8.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa11.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR6.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL2.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR7.wav
+- Assets/Resources/Helys/Length - set 1/Lyra-Length_set1-string9.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH2.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR8.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH1.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR5.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL3.wav
+- Assets/Resources/megarwnL65/megaron_1965L_R_Plusn/aulos_megaron1965LPlusnR5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH7.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string2.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL4.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR3.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH9.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR5.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa22.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL5.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa13.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH7.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR4.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR2.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa24.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-string7.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL5.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH8.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH2.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH6.wav
+- Assets/Resources/megarwnH65/megaron1965_H_R_Plusn/aulos_megaron1965HPlusnR8.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL2.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR1.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL2.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL8.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH1.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string8.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa25.wav
+- Assets/Resources/dafnis/dafnisL_L_Plusn/aulos_dafnisLPlusnL1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL8.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string4.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_TH_Minus/aulos_megaron1965LMinusTH8.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-stringa15.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string6.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string9.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH3.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H8.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR3.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string7.wav
+- Assets/Resources/megarwnH64/megaronH_R_Minus/aulos_megaronHMinusR4.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH7.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plus/aulos_megaronHPlusL6.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL6.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-string2.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH2.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Minus/aulos_megaron1965HMinusR2.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL6.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH1.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H7.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL5.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL2.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string8.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string4.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL6.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR7.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL3.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH6.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL3.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH6.wav
+- Assets/Resources/Helys/Tension - set 2/Lyra-Tension_set2-string8.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L3.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH8.wav
+- Assets/Resources/megarwnL64/megaronL_L_Minus/aulos_megaronLMinusL3.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR4.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa16.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa22.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH3.wav
+- Assets/Resources/megarwnH65/megaron1965_H_TH_Plusn/aulos_megaron1965HPlusnTH1.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR6.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa20.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH7.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string7.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string1.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa11.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH1.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR3.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa12.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH1.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL7.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_R_Plus/aulos_megaron1965HPlusR6.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plus/aulos_megaronLPlusL7.wav
+- Assets/Resources/Helys/Length - set 2/Lyra-Length_set2-string5.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa18.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL9.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH6.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL4.wav
+- Assets/Resources/dafnis/dafnisL_L_Minus/aulos_dafnisLMinusL7.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa25.wav
+- Assets/Resources/megarwnL65/megaron_1965L_L_Plusn/aulos_megaron1965LPlusnL6.wav
+- Assets/Resources/Helys/Linear density - set 2/Lyra-Linear_density_set2-string3.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plus/aulos_dafnisLPlusTH2.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-string3.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH8.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR4.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR6.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa23.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Plus/aulos_megaron1965LPlusR8.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string3.wav
+- Assets/Resources/dafnis/dafnisL_TH_Minus/aulos_dafnisLMinusTH7.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plusn/aulos_megaronLPlusnR1.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL5.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH1.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH5.wav
+- Assets/Resources/megarwnH64/megaronH_L_Plusn/aulos_megaronHPlusnL2.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string4.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string2.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string3.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plus/aulos_megaronHPlusTH7.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL9.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH9.wav
+- Assets/Resources/dafnis/dafnisL_TH_Plusn/aulos_dafnisLPlusnTH4.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa14.wav
+- Assets/Resources/megarwnL64/main_megaronL/aulos_megaronL6.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string2.wav
+- Assets/Resources/dafnis/_main_dafnisL/aulos_dafnisL1.wav
+- Assets/Resources/megarwnL64/megaronL_R_Plus/aulos_megaronLPlusR3.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL5.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Minus/aulos_megaronLMinusTH3.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL3.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH2.wav
+- Assets/Resources/megarwnL65/megaron_1965L_TH_Plusn/aulos_megaron1965LPlusnTH6.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string7.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa21.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa14.wav
+- Assets/Resources/megarwnL64/megaronL_L_Plusn/aulos_megaronLPlusnL8.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR5.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plusn/aulos_megaronLPlusnTH3.wav
+- Assets/Resources/dafnis/dafnisL_R_Plus/aulos_dafnisLPlusR4.wav
+- Assets/Resources/megarwnH65/main_megaron_1965_H/aulos_megaron1965H9.wav
+- Assets/Resources/megarwnL64/megaronL_R_Minus/aulos_megaronLMinusR5.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_L_Minus/aulos_megaron1965HMinusL7.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Plus/aulos_megaron1965HPlusTH9.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa17.wav
+- Assets/Resources/Helys/Linear density - set 1/Lyra-Linear_density_set1-string8.wav
+- Assets/Resources/megarwnH65/megaron1965_H_L_Plusn/aulos_megaron1965HPlusnL4.wav
+- Assets/Resources/megarwnL64/megaronL_TH_Plus/aulos_megaronLPlusTH3.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH8.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-string6.wav
+- Assets/Resources/Helys/Tension - set 1/Lyra-Tension_set1-string6.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-stringa21.wav
+- Assets/Resources/dafnis/dafnis_LPlus/aulos_dafnisLPlusL7.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plus/aulos_megaronHPlusR1.wav
+- Assets/Resources/Trigonon/Linear density - set 1/Trigono-Linear_density_set1-stringa12.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_L_Plus/aulos_megaron1965LPlusL4.wav
+- Assets/Resources/megarwnL65/megaron_1965_L_R_Minus/aulos_megaron1965LMinusR6.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL5.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa26.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH6.wav
+- Assets/Resources/megarwnL65/main_megaron_1965_L/aulos_megaron1965L1.wav
+- Assets/Resources/dafnis/dafnisL_R_Minus/aulos_dafnisLMinusR1.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL7.wav
+- Assets/Resources/Trigonon/Tension - set 2/Trigono-Tension_set2-string9.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Minus/aulos_megaronHMinusTH4.wav
+- Assets/Resources/Trigonon/Length - set 2/Trigono-Length_set2-string5.wav
+- Assets/Resources/megarwnH64/main_megaronH/aulos_megaronH3.wav
+- Assets/Resources/megarwnH64/megaronH_L_Minus/aulos_megaronHMinusL8.wav
+- Assets/Resources/megarwnH64/megaronH_TH_Plusn/aulos_megaronHPlusnTH3.wav
+- Assets/Resources/megarwnH64/megaronH_R_Plusn/aulos_megaronHPlusnR4.wav
+- Assets/Resources/Trigonon/Length - set 1/Trigono-Length_set1-stringa21.wav
+- Assets/Resources/Trigonon/Tension - set 1/Trigono-Tension_set1-stringa25.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa19.wav
+- Assets/Resources/Helys/Default values/Lyra-default-string4.wav
+- Assets/Resources/Trigonon/Linear density - set 2/Trigono-Linear_density_set2-stringa11.wav
+- Assets/Resources/dafnis/dafnisL_R_Plusn/aulos_dafnisLPlusnR6.wav
+- Assets/Resources/megarwnH65/megaron_1965_H_TH_Minus/aulos_megaron1965HMinusTH9.wav
+Dependencies: []
