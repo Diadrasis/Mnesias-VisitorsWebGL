@@ -1140,28 +1140,12 @@ public class MainPCManager : MonoBehaviour
     }
 
     //load instrument scriptable obkects from resources
-
     public void LoadInstrumentFiles(string fileName)
     {
         instrument = Resources.LoadAll(fileName, typeof(InstrumentSystem)).Cast<InstrumentSystem>().ToArray();
 
         Debug.Log("Folder Name Audio: " + fileName);
     }
-
-    //load clips from resources folder when not on webgl
-   /* public void LoadClips(string filename)
-    {
-#if !PLATFORM_WEBGL
-        videoClip = Resources.LoadAll(filename, typeof(VideoClip)).Cast<VideoClip>().ToArray();
-        for (int i = 0; i < videoClip.Length; i++)
-        {
-            textureVideos[i].SetActive(true);
-            textureVideos[i].GetComponentInChildren<TextMeshProUGUI>().text = videoClip[i].name;
-            if (videoClip.Length != textureVideos.Length) textureVideos[i + 1].SetActive(false);
-        }
-#endif
-        videoPlayer.time = 0;
-    }*/
 
     //when in webgl platform, to load files from urls. VideoClips won;t work correctly and thus the previous method won't work on webgl.
     void LoadMuseumVideos(string aVideo,string bVideo)
@@ -1207,26 +1191,6 @@ public class MainPCManager : MonoBehaviour
 
     }
 
-   /* //when platform except webgl to play specific video (we use the same way as the sounds here. This method is public cause we assign it on each button from editor)
-
-    public void PlayVideo(int num)
-    {
-        videoPlayer.clip = videoClip[num];
-
-        pnlMainRawVideo.SetActive(true);
-        if (videoPlayer.isPlaying)
-        {
-            videoPlayer.Pause();
-        }
-        else
-        {
-            videoPlayer.Play();
-        }
-        Debug.Log("Num: " + num);
-
-    }
-*/
-
     //on webgl we can't use the previous method, cause we want to access the url. This method is assigned on each buttn from code.
     public void PlayVideoWeb(string url)
     {
@@ -1264,12 +1228,10 @@ public class MainPCManager : MonoBehaviour
     {
         if (videoPlayer.isPlaying)
         {
-            btnVideo.gameObject.GetComponent<Image>().sprite = btnPlaySp;
             videoPlayer.Pause();
         }
         else
         {
-            btnVideo.gameObject.GetComponent<Image>().sprite = btnPauseSp;
             videoPlayer.Play();
         }
     }
@@ -1278,12 +1240,8 @@ public class MainPCManager : MonoBehaviour
     {
         if (videoPlayer.isPlaying)
         {
-            btnVideo.gameObject.GetComponent<Image>().sprite = btnPauseSp;
-            if (videoPlayer.frameCount > 0)
-            {
-                slVideo.value = videoPlayer.frame/(float)videoPlayer.frameCount;
-            }
-           
+            btnVideo.gameObject.GetComponent<Image>().sprite = btnPauseSp;           
+            slVideo.value = videoPlayer.frame / (float)videoPlayer.frameCount;//on web won't read the video.clip...
         }
         else
         {
