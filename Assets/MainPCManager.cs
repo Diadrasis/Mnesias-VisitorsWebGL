@@ -1019,7 +1019,7 @@ public class MainPCManager : MonoBehaviour
         btn3DScene.gameObject.SetActive(false);
 
 
-        LoadMuseumVideos("http://mnesias.diadrasis.net/mnesiasVideo/Η_Αρπα_της_Δαφνης.m4v", "http://mnesias.diadrasis.net/mnesiasVideo/Η_Λυρα_της_δαφνης.m4v");
+        LoadMuseumVideos("http://mnesias.diadrasis.net/mnesiasVideo/Το_Τριγωνο_της_Δαφνης.m4v", "http://mnesias.diadrasis.net/mnesiasVideo/Η_Λυρα_της_δαφνης.m4v");
 
 
         if (isPiraeus && !isMegara) btnMuseum.onClick.AddListener(() => buttonLevel.URl("http://odysseus.culture.gr/h/1/gh151.jsp?obj_id=3371"));
