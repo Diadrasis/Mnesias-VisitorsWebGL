@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc62fce72d6bcf54a8cf2372e9aa7d9b, type: 3}
   m_Name: helys
   m_EditorClassIdentifier: 
-  nameInstrument: "\u0397 \u03BB\u03C5\u03C1\u03B1 \u03C4\u03B7\u03C2 \u0394\u03B1\u03C6\u03BD\u03B7\u03C2"
+  nameInstrument: "\u0397 \u03C7\u03B5\u03BB\u03C5\u03C2 \u03C4\u03B7\u03C2 \u0394\u03B1\u03C6\u03BD\u03B7\u03C2"
   imgInstrument: {fileID: 21300000, guid: 39e8f0064cea456479a8f504dfda025e, type: 3}
   mainText1: " \u03A4\u03BF \u03BA\u03AD\u03BB\u03C5\u03C6\u03BF\u03C2 \u03C7\u03B5\u03C1\u03C3\u03B1\u03AF\u03B1\u03C2
     \u03C7\u03B5\u03BB\u03CE\u03BD\u03B1\u03C2 \u03BC\u03B5 \u03B1\u03C6\u03B1\u03B9\u03C1\u03B5\u03BC\u03AD\u03BD\u03BF
